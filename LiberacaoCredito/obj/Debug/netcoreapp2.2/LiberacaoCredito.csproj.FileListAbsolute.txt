@@ -1,0 +1,11 @@
+M:\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.2\LiberacaoCredito.deps.json
+M:\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.2\LiberacaoCredito.runtimeconfig.json
+M:\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.2\LiberacaoCredito.runtimeconfig.dev.json
+M:\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.2\LiberacaoCredito.dll
+M:\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.2\LiberacaoCredito.pdb
+M:\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.2\LiberacaoCredito.csprojAssemblyReference.cache
+M:\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.2\LiberacaoCredito.csproj.CoreCompileInputs.cache
+M:\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.2\LiberacaoCredito.AssemblyInfoInputs.cache
+M:\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.2\LiberacaoCredito.AssemblyInfo.cs
+M:\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.2\LiberacaoCredito.dll
+M:\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.2\LiberacaoCredito.pdb
