@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\LiberacaoCredito\\LiberacaoCredito\\LiberacaoCredito.csproj",
+      "projectUniqueName": "M:\\Liberacao-de-credito\\LiberacaoCredito\\LiberacaoCredito.csproj",
       "projectName": "LiberacaoCredito",
-      "projectPath": "M:\\LiberacaoCredito\\LiberacaoCredito\\LiberacaoCredito.csproj",
+      "projectPath": "M:\\Liberacao-de-credito\\LiberacaoCredito\\LiberacaoCredito.csproj",
       "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "M:\\LiberacaoCredito\\LiberacaoCredito\\obj\\",
+      "outputPath": "M:\\Liberacao-de-credito\\LiberacaoCredito\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

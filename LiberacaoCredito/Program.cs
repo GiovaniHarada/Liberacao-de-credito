@@ -13,8 +13,12 @@ namespace LiberacaoCredito
             {
                 Credito NovoCredito = new Credito();
                 NovoCredito.Parametrizar();
+                NovoCredito.Validar();
 
-                Console.WriteLine(JsonConvert.SerializeObject(NovoCredito));
+                Console.WriteLine();
+                NovoCredito.Resultado();
+
+
             }
         }
     }
